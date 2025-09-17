@@ -313,9 +313,9 @@ By language:
 - [QtWebEngine](https://doc.qt.io/qt-6/qtwebengine-overview.html) — Chromium-based engine for headless browsing in C++.  
 - [cpprestsdk](https://github.com/microsoft/cpprestsdk) — Microsoft’s REST SDK for HTTP and JSON; good for building crawler backbones.  
 
-## C
+## <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/c.svg?raw=true" width="23" /> C
 
-**Takeaway:** C is rarely used for high-level crawling; most projects are either academic, proof-of-concept, or very low-level. Crawlers in C typically rely on libraries like *libcurl* for HTTP and *libxml2* for parsing. There are a few simple open-source crawler projects, but most large-scale crawling is delegated to higher-level languages.  
+**Takeaway:** Crawlers in C typically rely on libraries like *libcurl* for HTTP and *libxml2* for parsing. There are a few simple open-source crawler projects, but most large-scale crawling is delegated to higher-level languages.  
 
 | Tool | Parsing | JS Rendering | Headless Browser | Async | Distributed |
 |---|---------|--------------|----------------|--------|-------------|
