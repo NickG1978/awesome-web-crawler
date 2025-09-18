@@ -23,7 +23,7 @@ By language:
 ## <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/star.svg?raw=true" width="23" /> Featured Web Crawlers
 
 - [Bright Data](https://brightdata.com/) - Most popular web crawler API, especially useful to avoid blocks.
-- [scrapy](https://brightdata.com/) - Fast and scalable library for Python with a huge ecosystem.
+- [scrapy](https://github.com/scrapy/scrapy) - Fast and scalable library for Python with a huge ecosystem.
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome automation for JavaScript, great for crawling dynamic pages.
 
 ## <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/python.svg?raw=true" width="23" /> Python
