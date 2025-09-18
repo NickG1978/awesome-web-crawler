@@ -5,20 +5,20 @@
 ![Banner](https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/banner.jpg?raw=true)
 
 By language:
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/python.svg?raw=true" width="16"/> [Python](#python)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/javascript.svg?raw=true" width="16"/> [JavaScript](#javascript)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/java.svg?raw=true" width="16"/> [Java](#java)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/php.svg?raw=true" width="16"/> [PHP](#php)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/go.svg?raw=true" width="16"/> [Golang](#golang)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/python.svg?raw=true" width="16"/> [Python](#-python)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/javascript.svg?raw=true" width="16"/> [JavaScript](#-javascript)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/java.svg?raw=true" width="16"/> [Java](#-java)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/php.svg?raw=true" width="16"/> [PHP](#-php)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/go.svg?raw=true" width="16"/> [Golang](#-golang)
 - <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/c-sharp.svg?raw=true" width="16"/> [C#](#-c)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/ruby.svg?raw=true" width="16"/> [Ruby](#ruby)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/rust.svg?raw=true" width="16"/> [Rust](#rust)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/perl.svg?raw=true" width="16"/> [Perl](#perl)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/scala.svg?raw=true" width="16"/> [Scala](#scala)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/r.svg?raw=true" width="16"/> [R](#r)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/erlang.svg?raw=true" width="16"/> [Erlang](#erlang)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/c-plus-plus.svg?raw=true" width="16"/> [C++](#c-1)
-- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/c.svg?raw=true" width="16"/> [C](#c)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/ruby.svg?raw=true" width="16"/> [Ruby](#-ruby)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/rust.svg?raw=true" width="16"/> [Rust](#-rust)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/perl.svg?raw=true" width="16"/> [Perl](#-perl)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/scala.svg?raw=true" width="16"/> [Scala](#-scala)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/r.svg?raw=true" width="16"/> [R](#-r)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/erlang.svg?raw=true" width="16"/> [Erlang](#-erlang)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/c-plus-plus.svg?raw=true" width="16"/> [C++](#-c-1)
+- <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/c.svg?raw=true" width="16"/> [C](#-c)
 
 ## <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/star.svg?raw=true" width="23" /> Featured Web Crawlers
 
