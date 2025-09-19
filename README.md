@@ -4,7 +4,7 @@
 
 ![Banner](https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/banner.jpg?raw=true)
 
-By language:
+## By language
 - <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/python.svg?raw=true" width="16"/> [Python](#-python)
 - <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/javascript.svg?raw=true" width="16"/> [JavaScript](#-javascript)
 - <img src="https://github.com/ilovedevs/awesome-web-crawler/blob/main/assets/java.svg?raw=true" width="16"/> [Java](#-java)
